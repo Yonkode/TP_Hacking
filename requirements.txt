@@ -1,0 +1,7 @@
+cryptography==50.0.2
+pynput==1.8.2
+python_bcrypt==0.3.2
+pywifi==1.1.12
+Requests==2.34.2
+scapy==2.8.0
+stdiomask==0.0.6
